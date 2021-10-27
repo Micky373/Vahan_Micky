@@ -1,0 +1,7 @@
+/*The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.*/
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
